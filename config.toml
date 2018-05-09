@@ -1,3 +1,13 @@
-baseURL = "http://example.org/"
+baseurl = "https://leadinchina.com/"
+title = "Open to 1.4 Billion People"
+theme = "dimension"
 languageCode = "en-us"
-title = "My New Hugo Site"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+googleAnalytics = "UA-67874206-3"
+
+[params]
+  description = "Your Personal Lead To China"
+  logo = "fa-star"
+  copyright = "leadinchina.com"
